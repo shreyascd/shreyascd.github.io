@@ -230,7 +230,7 @@
 <rect class="cell" x="475" y="70" width="13" height="13" fill="#ebedf0"/>
 <rect class="cell" x="475" y="85" width="13" height="13" fill="#ebedf0"/>
 <rect class="cell" x="475" y="100" width="13" height="13" fill="#ebedf0"/>
-<rect class="cell" x="475" y="115" width="13" height="13" fill="#ebedf0"/>
+<rect class="cell" x="475" y="115" width="13" height="13" fill="#108548"/>
 <rect class="cell" x="475" y="130" width="13" height="13" fill="#239a3b"/>
 <rect class="cell" x="490" y="40" width="13" height="13" fill="#239a3b"/>
 <rect class="cell" x="490" y="55" width="13" height="13" fill="#239a3b"/>
@@ -394,5 +394,5 @@
 <rect class="cell" x="820" y="115" width="13" height="13" fill="#ebedf0"/>
 <rect class="cell" x="820" y="130" width="13" height="13" fill="#ebedf0"/>
 </g>
-<text x="40" y="165" font-size="12" fill="#666">26 active days | Total: 395</text>
+<text x="40" y="165" font-size="12" fill="#666">27 active days | Total: 415</text>
 </svg>
